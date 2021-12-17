@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639641087157,
+  "timestamp": 1639748868239,
   "index": "https://sebastian8934.github.io/jardinesDelEden/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://sebastian8934.github.io/jardinesDelEden/favicon.ico",
         "https://sebastian8934.github.io/jardinesDelEden/index.html",
-        "https://sebastian8934.github.io/jardinesDelEden/main.f8ae84319926460635f8.js",
+        "https://sebastian8934.github.io/jardinesDelEden/main.d43d39e5a9dcee7509c4.js",
         "https://sebastian8934.github.io/jardinesDelEden/manifest.json",
         "https://sebastian8934.github.io/jardinesDelEden/polyfills.fd30b42dfff1c56c25ed.js",
         "https://sebastian8934.github.io/jardinesDelEden/runtime.acf0dec4155e77772545.js",
@@ -76,8 +76,8 @@
     "https://sebastian8934.github.io/jardinesDelEden/assets/img/Logo.jpeg": "0f00ccae66c93992d734f0d5db5159d812b9818c",
     "https://sebastian8934.github.io/jardinesDelEden/assets/img/LogoPequeño.jpg": "66b57689dc56b9f3e322163842521e9b2ed3052b",
     "https://sebastian8934.github.io/jardinesDelEden/favicon.ico": "ab87708607d8c4208cdee14568f713619a200671",
-    "https://sebastian8934.github.io/jardinesDelEden/index.html": "9a90a945b2f3b2bca62dd93a537015a719500342",
-    "https://sebastian8934.github.io/jardinesDelEden/main.f8ae84319926460635f8.js": "2de7dace714744b2179fb9b5457ccc6d6e971a53",
+    "https://sebastian8934.github.io/jardinesDelEden/index.html": "deaed867826a00c05b3a1daff3ba46745aa53e8c",
+    "https://sebastian8934.github.io/jardinesDelEden/main.d43d39e5a9dcee7509c4.js": "388876a551a824beda2bc099d7630500e93f40cc",
     "https://sebastian8934.github.io/jardinesDelEden/manifest.json": "fb3dc45f1f80948010076679d4101bd5d2bcf5db",
     "https://sebastian8934.github.io/jardinesDelEden/polyfills.fd30b42dfff1c56c25ed.js": "dbc502f030c7bb83c7caa1feee7aff990831f7d9",
     "https://sebastian8934.github.io/jardinesDelEden/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
